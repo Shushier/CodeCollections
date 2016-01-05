@@ -1,4 +1,4 @@
-﻿/**
+/**
 * @Brief This file defines some macros to reform the try-catch exception handling mechanism in C++.
 		 The original try-catch form maybe some mass and we need a much cheaper way.
 		 In parctise,it's so common that such a line code "m_pSession->commit();" would require a lot 
